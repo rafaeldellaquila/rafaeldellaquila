@@ -26,7 +26,7 @@ My favourites tools:
 ---
 
 Oi 🤙</br>
-Eu sou o Rafael Dell'Aquila, Desenvolvedor Front-end (WIP) (esperando seu e-mail para me contratar 😚), trabalhando com React.Js e React Native principalmente.
+Eu sou o Rafael Dell'Aquila, Desenvolvedor Front-end (WIP) (esperando seu e-mail para me contratar 😚), trabalhando com React.Js e React Native.
 
 Favoritos:
 </br>
