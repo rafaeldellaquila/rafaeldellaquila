@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rafaeldellaquila/">Linkedin</a> •
-  <a href="https://instagram.com/rfldllql">Instagram</a> •
-  <a href="https://twitter.com/rfldllql">Twitter</a>
+<a href="https://www.linkedin.com/in/rafaeldellaquila/" target="_blank">Linkedin</a> •
+  <a href="https://instagram.com/rfldllql" target="_blank">Instagram</a> •
+  <a href="https://twitter.com/rfldllql" target="_blank">Twitter</a>
 </p>
 
 ---
