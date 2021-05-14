@@ -1,16 +1,39 @@
-### Hi there 👋
+<p>
+   <img src="https://i.ibb.co/R6WvysN/Prancheta-1.jpg" alt="rafael-thumb" border="0">
+</p>
 
-<!--
-**rafaeldellaquila/rafaeldellaquila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://www.linkedin.com/in/rafaeldellaquila/">Linkedin</a> •
+  <a href="https://instagram.com/rfldllql">Instagram</a> •
+  <a href="https://twitter.com/rfldllql">Twitter</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi. 🤙</br>
+I'm Rafael Dell'Aquila, a new Front-end Developer (waiting for to hire me 😚), working with over React.Js and React Native.
+
+My favourites tools:
+</br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="20"/> <b>JavaScript</b>
+</br>
+<img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>
+</br>
+<img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Js</b>
+</br>
+<img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Native</b>
+
+---
+
+Oi 🤙</br>
+Eu sou o Rafael Dell'Aquila, Desenvolvedor Front-end (WIP) (esperando seu e-mail para me contratar 😚), trabalhando com React.Js e React Native principalmente.
+
+Favoritos:
+</br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="20"/> <b>JavaScript</b>
+</br>
+<img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>
+</br>
+<img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Js</b>
+</br>
+<img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Native</b>
