@@ -22,18 +22,3 @@ My favourites tools:
 <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Js</b>
 </br>
 <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Native</b>
-
----
-
-Oi 🤙</br>
-Eu sou o Rafael Dell'Aquila, Desenvolvedor Front-end (WIP) (esperando seu e-mail para me contratar 😚), trabalhando com React.Js e React Native.
-
-Favoritos:
-</br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="20"/> <b>JavaScript</b>
-</br>
-<img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>
-</br>
-<img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Js</b>
-</br>
-<img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Native</b>
