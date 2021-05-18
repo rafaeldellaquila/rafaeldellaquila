@@ -11,7 +11,7 @@
 ---
 
 Hi. 🤙</br>
-I'm Rafael Dell'Aquila, a new Front-end Developer (waiting for to hire me 😚), working with over React.Js and React Native.
+I'm Rafael Dell'Aquila, a new Front-end Developer (waiting you for hiring me 😚), working with over React.Js and React Native.
 
 My favourites tools:
 </br>
