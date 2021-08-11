@@ -5,7 +5,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/rafaeldellaquila/" target="_blank">Linkedin</a> •
   <a href="https://instagram.com/rfldllql" target="_blank">Instagram</a> •
-  <a href="https://twitter.com/rfldllql" target="_blank">Twitter</a> • Site (wip)
+  <a href="https://twitter.com/rfldllql" target="_blank">Twitter</a> • 
+   <a href="https://dellaquila.dev" target="_blank">Site</a>
 </p>
 
 ---
