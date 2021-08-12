@@ -12,9 +12,7 @@
 ---
 </br>
 <p>
-Hi! My name is Rafael, nice to meet you! I've been in Art Direction since 2013 and I enjoy designing great ideas. My interest in web development started back in 2017. While briefing with developers I discovered a new passion.</br>
-Recently I started developing websites and improving my skills.
-I'm looking for new challenges, here are a few tools I've been working with:
+   Hi! My name is Rafael, <i>nice to meet you</i>! I work as a Designer since 2013 and I enjoy designing great ideas. Now I am focused on Front-end Development. My interest in web development started back in 2017. While briefing with developers I discovered a new passion.
 </br>
 
 <div align="center">
