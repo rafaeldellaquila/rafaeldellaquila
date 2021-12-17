@@ -16,7 +16,7 @@
 </br>
 
 <div align="center">
-<b> • JS/TS • Next.js • React • Strapi • GraphQL • Jest • </b></br></br>
+<b> • JS/TS • Next.js • React • Strapi • GraphQL • Jest • Vue.js • Quasar</b></br></br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaeldellaquila&show_icons=true&title_color=e53d1e&bg_color=00001b&icon_color=F27613&text_color=a2c5e5&border_color=00001b)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldellaquila&show_icons=true&title_color=e53d1e&bg_color=00001b&icon_color=F27613&text_color=a2c5e5&border_color=00001b&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
