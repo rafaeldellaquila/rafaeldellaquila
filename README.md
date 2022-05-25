@@ -5,8 +5,6 @@
 < Hi! My name is Rafael 🧑, nice to meet you! I am Front-end Developer. 💻
 
 ! I work as a Designer since 2013 and I enjoy designing great ideas.
-! My interest in web development started back in 2017.
-! While briefing with developers I discovered a new passion.
 ```
 
 #### 🔗 Chat me
