@@ -14,6 +14,7 @@
 [![Instagram badge](https://img.shields.io/badge/My%20Page-ffffff?style=for-the-badge&logo=vercel&logoColor=black)](https://dellaquila.dev)
 
 #### 💻 Work with:
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
