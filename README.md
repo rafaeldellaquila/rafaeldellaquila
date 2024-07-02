@@ -1,6 +1,3 @@
-![header from my site/github visual identity](https://i.ibb.co/0jzvQmJ/resume-github.png)
-
-
 ```diff
 < Hi! My name is Rafael 🧑, nice to meet you! I am Front-end Developer. 💻
 
