@@ -1,7 +1,8 @@
 ```diff
-< Hi! My name is Rafael 🧑, nice to meet you! I am Front-end Developer working with Vue.js on the Mutant/VIVO Telecom Squad. 💻
+< Hi! My name is Rafael 🧑, nice to meet you! 
+I am Front-end Developer working with Vue.js 
+on the Mutant/VIVO Telecom Squad. 💻
 
-! I work as a Designer since 2013 and I enjoy designing great ideas.
 ```
 
 #### 🔗 Chat me
