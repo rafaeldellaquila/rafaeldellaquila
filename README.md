@@ -1,7 +1,7 @@
 ```diff
   Hi! My name is Rafael 🧑, nice to meet you! 
   I am Front-end Developer working with Vue.js 
-  on the Mutant/VIVO Telecom Squad. 💻
+  on the Medprev. 💻
 
 ```
 
