@@ -1,8 +1,7 @@
 ```diff
   Hi! My name is Rafael 🧑, nice to meet you! 
-  I am Front-end Developer working with Vue.js 
-  on the Medprev. 💻
-
+  I am a Front-end Developer working with Vue.js
+  at Medprev. 💻
 ```
 
 #### 🔗 Chat me
