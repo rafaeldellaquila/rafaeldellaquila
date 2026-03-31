@@ -1,6 +1,6 @@
 ```diff
-  Hi! My name is Rafael 🧑, nice to meet you! 
-  I am a Front-end Developer working with Vue.js
+  Hi! My name is Rafael, nice to meet you! 
+  I am a Software Engineer working with Vue.js and Nest.js
   at Medprev. 💻
 ```
 
